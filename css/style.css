@@ -319,3 +319,150 @@ ul li{
 .fcbottom{
     margin-bottom: 30px;
 }
+
+.yana{
+    width: 211px;
+    height: 42px;
+    border-radius: 5px;
+    background-color: #295093;
+    margin-left: 414px;
+}
+.yana a{
+    font-size: 17px;
+    font-weight: 500;
+    color: white;
+}
+
+/* pages 3 start */
+.left .left-img2 img{
+    width: 794px;
+    height: 379px;
+}
+
+.lef2{
+    width: 794px;
+}
+
+.left2 p{
+    max-width: 794px;
+}
+.gipertext a{
+    margin-right: 15px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.pn2 {
+    position: relative;
+    width: 1200px;
+    margin: 0 0 50px 0;
+}
+
+.pn2 .right{
+    position: absolute;
+    right: 0;
+    /* width: 90px; */
+}
+.pn2 ul{
+    display: inline-block;
+}
+.pn2 .left li p{
+    display: inline-block;
+}
+
+/* pages 3 end */
+
+/* page 4 strat */
+.content {
+    width: 1200px;
+}
+.content .leftinfo{
+    display: inline-block;
+}
+.content .leftinfo  .in {
+    width: 600px;
+    height: 50px;
+    margin-bottom: 18px;
+    background-color: #f1f1f1
+}
+
+.content .leftinfo .win{
+    width: 600px;
+    height: 307px;
+    margin-bottom: 18px;
+    background-color: #f1f1f1
+}
+.content .leftinfo .fin{
+    width: 221px;
+    height: 50px;
+    margin-bottom: 18px;
+}
+.content .leftinfo .pin{
+    width: 221px;
+    height: 50px;
+    margin-bottom: 18px;
+}
+.content .leftinfo .submit{
+    width: 221px;
+    height: 50px;
+    background-color: #295093;
+    color: #fff;
+}
+.content .rightinfo{
+    width: 510px;
+    height: 280px;
+    border-radius: 5px;
+    border-top: 2px solid #bcc3cd;
+    border-right: 2px solid #bcc3cd;
+    float: right;
+    box-shadow: -20px 20px 10px #bcc3cd;
+    padding: 10px;
+}
+.content .rightinfo .rl{
+    display: inline-block;
+}
+.content .rightinfo .rr{
+    float: right;
+}
+
+.fa-brands{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+   font-size: 20px;
+   
+}
+
+.fa-twitter{
+    background-color: #295091;
+    color: #fff;
+}
+.fa-odnoklassniki{
+    background-color: #295091;
+    color: #fff;
+}
+
+.rr button{
+    width: 150px;
+    height: 33px;
+    background-color: #295091;
+    border-radius: 5px;
+    color: #fff;
+    align-items:center ;
+    border: none;
+}
+/* .rr button:first-child{
+    justify-content: center;
+    color: #fff; 
+}
+
+.rr button div {
+display: inline-block;
+flex-wrap: nowrap;
+align-items: center;
+
+} */
+/* page 4 end */
+
+.rr{
+    text-align: right;
+}
